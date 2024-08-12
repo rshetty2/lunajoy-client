@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  padding: 20px;
+}
+
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  margin-bottom: 20px;
 }
 
 .App-logo {
